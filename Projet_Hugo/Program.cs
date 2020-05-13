@@ -96,6 +96,8 @@ namespace Projet_Hugo
 
                             break;
                         case 3:
+                            Console.WriteLine("En préparation...");
+                            System.Threading.Thread.Sleep(1000); // Pour faire une pause de 0.8 seconde
 
                             break;
                         case 4:
