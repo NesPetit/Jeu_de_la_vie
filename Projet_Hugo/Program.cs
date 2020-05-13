@@ -37,6 +37,7 @@ namespace Projet_Hugo
 
             do
             {
+                /// Affichage du menu 
                 Console.Clear();
                 Console.WriteLine("\t\t\tBienvenue au Jeu de la vie \n\n\tQue souhaites-tu faire ?\n");
                 Console.WriteLine("\t1) Etape 1");
@@ -52,6 +53,9 @@ namespace Projet_Hugo
                         Console.WriteLine("Veuillez saisir un choix valide SVP");
                         choix = Convert.ToInt32(Console.ReadLine());
                     }
+
+
+                    ///Gérer le menu 
                     switch (choix)
                     {
                         case 1:
