@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9A3D6321-96B9-4E0E-92D9-62633E1A1B16}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Projet_Hugo/Program.cs">
+    <Files>
+      <File FileName="Projet_Hugo/Program.cs" Line="123" Column="86" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Projet_Hugo" expanded="True">
+            <Node name="Projet_Hugo" expanded="True">
+              <Node name="References" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Projet__Hugo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

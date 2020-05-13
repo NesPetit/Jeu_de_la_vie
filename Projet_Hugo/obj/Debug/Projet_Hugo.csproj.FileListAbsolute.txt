@@ -1,0 +1,6 @@
+/Users/inge/Projects/Projet_Hugo/Projet_Hugo/bin/Debug/Projet_Hugo.exe
+/Users/inge/Projects/Projet_Hugo/Projet_Hugo/bin/Debug/Projet_Hugo.pdb
+/Users/inge/Projects/Projet_Hugo/Projet_Hugo/obj/Debug/Projet_Hugo.csprojAssemblyReference.cache
+/Users/inge/Projects/Projet_Hugo/Projet_Hugo/obj/Debug/Projet_Hugo.csproj.CoreCompileInputs.cache
+/Users/inge/Projects/Projet_Hugo/Projet_Hugo/obj/Debug/Projet_Hugo.exe
+/Users/inge/Projects/Projet_Hugo/Projet_Hugo/obj/Debug/Projet_Hugo.pdb
